@@ -211,7 +211,7 @@ void Simulation::reconstruct(int alg)
     Clock cl;
     cl.reset();
 
-
+    run_time_ = 0;
 
     //static int run_pip = 1;
     // std::string file_name = "pip_test" + std::to_string(run_pip ++) + ".txt";

@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(triangulation)
 
+set(CMAKE_BUILD_TYPE RELEASE)
 add_definitions(-std=c++11)
-#add_compile_options(-O3)
-#add_compile_options(-fPIC)
+add_compile_options(-O3)
 
 find_package(Ceres REQUIRED)
 find_package(Eigen3 REQUIRED)
