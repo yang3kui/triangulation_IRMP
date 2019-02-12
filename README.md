@@ -5,17 +5,17 @@ This repo contains an implementation of the Iteratively Reweighted MidPoint meth
 If you use this code in an academic context, please cite the following paper:
 
 ```
-@ARTICLE{yang_irmp,
+@ARTICLE{yangkui_irmp,
 author={K. Yang and W. Fang and Y. Zhao and N. Deng},
 journal={IEEE Robotics and Automation Letters},
 title={Iteratively Reweighted Midpoint Method for Fast Multiple View Triangulation},
 year={2019},
-volume={preprint},
-number={},
-pages={1-1},
+volume={4},
+number={2},
+pages={708-715},
 doi={10.1109/LRA.2019.2893022},
 ISSN={2377-3766},
-month={},}
+month={April},}
 ```
 
 ## Dependencies 
